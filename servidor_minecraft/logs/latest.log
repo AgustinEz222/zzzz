@@ -131,3 +131,11 @@
 [05:46:34] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.attack_damage base set 2
 [05:48:01] [Server thread/WARN]: AgustinEz2 moved wrongly!
 [05:48:48] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611 AgustinEz2
+[05:49:48] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:ender_chest
+[05:51:01] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.attack_damage base set 1000
+[05:52:33] [Server thread/INFO]: Villager Villager['Villager'/5413, uuid='3190aa8b-814d-4f3e-b007-6f426d8af10d', l='ServerLevel[world]', x=300.41, y=63.00, z=-1626.79, cpos=[18, -102], tl=24221, v=true] died, message: 'Villager suffocated in a wall'
+[05:53:31] [Server thread/INFO]: AgustinEz2 issued server command: /cristc setIgnoreLeaves false
+[05:53:45] [Server thread/INFO]: AgustinEz2 issued server command: /cristc setSneakingPrevention true
+[05:53:59] [Server thread/INFO]: AgustinEz2 issued server command: /cristc setReplant true
+[05:54:20] [Server thread/INFO]: AgustinEz2 issued server command: /cristc setNetherTrees true
+[05:57:58] [Server thread/INFO]: AgustinEz2 issued server command: /cristc setLimit 100000

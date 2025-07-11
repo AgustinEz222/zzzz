@@ -4,7 +4,7 @@
 damage axe: true
 
 #Sets the maximum number of logs and leaves that can be destroyed at once. -1 to unlimit.
-destroy limit: 500
+destroy limit: 100000
 
 #If true, it sends each player a message about /tc toggle when they join the server. The message changes depending on the value of "start activated".
 initial message: true
@@ -13,10 +13,10 @@ initial message: true
 replant: true
 
 #Sets if the new 1.16 nether trees should be treated as regular trees, and therefore cut down entirely as well.
-cut nether "trees": false
+cut nether "trees": true
 
 #If true, crouching players won't trigger this plugin or only crouching players will. If "inverted", players will have to crouch to destroy trees instantly. False by default so updating from previous versions won't change this behaviour without notice.
-crouch for prevention: false
+crouch for prevention: true
 
 #If "axe needed" and "damage axe" are set to true, sets if the axe should not be broken. Otherwise this option is ignored.
 break axe: true
