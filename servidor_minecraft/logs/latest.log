@@ -189,3 +189,22 @@
 [06:30:01] [Server thread/INFO]: Kiki_gm joined the game
 [06:30:01] [Server thread/INFO]: Kiki_gm[/127.1.137.19:59699] logged in with entity id 15294 at ([world]378.21404806237626, 69.0, -1471.8484667646242)
 [06:33:52] [Async Chat Thread - #3/INFO]: [Not Secure] <Dn0611> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[06:39:59] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[06:40:15] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:glow_ink_sac 4
+[06:40:23] [Server thread/INFO]: AgustinEz2 has made the advancement [Glow and Behold!]
+[06:41:59] [Server thread/INFO]: AgustinEz2 issued server command: /fill 334 74 -1580
+[06:42:08] [Server thread/INFO]: AgustinEz2 issued server command: /fill 334 74 -1580 335 73 -1581 minecraft:water
+[06:42:23] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:axolotl
+[06:42:23] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:axolotl
+[06:42:27] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:axolotl
+[06:42:33] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:axolotl
+[06:42:36] [Server thread/INFO]: AgustinEz2 issued server command: /home
+[06:43:03] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm AgustinEz2
+[06:44:33] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 0.1
+[06:44:43] [Server thread/INFO]: Kiki_gm issued server command: /sethome
+[06:44:45] [Server thread/INFO]: Kiki_gm issued server command: /home
+[06:44:52] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 0.2
+[06:44:55] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 0.3
+[06:48:59] [Server thread/INFO]: AgustinEz2 issued server command: /fill 334 68 -1592
+[06:49:05] [Server thread/INFO]: AgustinEz2 issued server command: /fill 334 68 -1592 335 68 -1591 minecraft:water
+[06:49:09] [Server thread/WARN]: Dn0611 moved wrongly!
