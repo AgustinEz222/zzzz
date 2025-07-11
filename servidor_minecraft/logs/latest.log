@@ -161,3 +161,25 @@
 [06:18:34] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base get 2
 [06:19:09] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:gold_nugget[minecraft:attribute_modifiers=generic.scale base set 2
 [06:19:22] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:gold_nugget[minecraft:attribute_modifiers=generic.scale 2
+[06:20:01] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:gold_nugget[!minecraft:attribute_modifiers,minecraft:base_color=red]
+[06:21:48] [Async Chat Thread - #0/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:49] [Async Chat Thread - #0/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:49] [Async Chat Thread - #0/INFO]: [Not Secure] <AgustinEz2> zz
+[06:21:49] [Async Chat Thread - #0/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:49] [Async Chat Thread - #0/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:49] [Async Chat Thread - #0/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:49] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:49] [Async Chat Thread - #0/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:49] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:49] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:50] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:50] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:50] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:50] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:50] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:50] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:50] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:21:50] [Async Chat Thread - #1/INFO]: [Not Secure] <AgustinEz2> z
+[06:23:13] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm Dn0611
+[06:23:28] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
+[06:27:44] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 0.5
