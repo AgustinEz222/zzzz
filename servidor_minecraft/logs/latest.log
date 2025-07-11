@@ -231,3 +231,56 @@
 [06:58:43] [Server thread/INFO]: AgustinEz2 issued server command: /attribute 52b95103-ab8c-4fbd-8180-9ea6d42a96c0 minecraft:generic.scale base set 100
 [06:59:38] [Server thread/INFO]: AgustinEz2 issued server command: /effect give 52b95103-ab8c-4fbd-8180-9ea6d42a96c0 minecraft:health_boost infinite 129
 [06:59:49] [Server thread/INFO]: AgustinEz2 issued server command: /effect give 52b95103-ab8c-4fbd-8180-9ea6d42a96c0 minecraft:regeneration infinite 123
+[07:00:20] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[07:00:44] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.attack_damage base set 1
+[07:01:31] [Server thread/INFO]: AgustinEz2 issued server command: /fill 297 62 -1564
+[07:01:41] [Server thread/INFO]: AgustinEz2 issued server command: /fill 297 62 -1564 288 57 -1571 minecraft:glass
+[07:01:58] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
+[07:02:13] [Server thread/INFO]: AgustinEz2 issued server command: /tp 52b95103-ab8c-4fbd-8180-9ea6d42a96c0 AgustinEz2
+[07:02:26] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[07:02:28] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611
+[07:02:35] [Server thread/INFO]: AgustinEz2 issued server command: /home
+[07:03:02] [Server thread/INFO]: Kiki_gm issued server command: /home
+[07:03:37] [Server thread/INFO]: AgustinEz2 issued server command: /kill 52b95103-ab8c-4fbd-8180-9ea6d42a96c0
+[07:03:57] [Server thread/INFO]: AgustinEz2 issued server command: /fill 297 62 -1564 288 57 -1571 minecraft:grass_block
+[07:05:02] [Server thread/INFO]: AgustinEz2 issued server command: /attribute 1d5833b1-bfcd-4faa-8e89-feab204c259a minecraft:generic.scale base set 1
+[07:05:05] [Server thread/INFO]: Kiki_gm issued server command: /home
+[07:05:07] [Server thread/INFO]: AgustinEz2 issued server command: /attribute 1d5833b1-bfcd-4faa-8e89-feab204c259a minecraft:generic.scale base set 0.1
+[07:05:25] [Server thread/INFO]: AgustinEz2 issued server command: /tp 1d5833b1-bfcd-4faa-8e89-feab204c259a AgustinEz2
+[07:06:22] [Server thread/INFO]: AgustinEz2 issued server command: /effect give 1d5833b1-bfcd-4faa-8e89-feab204c259a minecraft:health_boost infinite 111
+[07:06:29] [Server thread/INFO]: AgustinEz2 issued server command: /effect give 1d5833b1-bfcd-4faa-8e89-feab204c259a minecraft:regeneration infinite 111
+[07:06:51] [Server thread/INFO]: AgustinEz2 issued server command: /tp 1d5833b1-bfcd-4faa-8e89-feab204c259a AgustinEz2
+[07:07:03] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:glass 12
+[07:07:27] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:glass 12
+[07:07:36] [Server thread/INFO]: AgustinEz2 issued server command: /tp 1d5833b1-bfcd-4faa-8e89-feab204c259a AgustinEz2
+[07:07:49] [Server thread/INFO]: AgustinEz2 issued server command: /tp 1d5833b1-bfcd-4faa-8e89-feab204c259a AgustinEz2
+[07:07:56] [Server thread/INFO]: AgustinEz2 issued server command: /tp 1d5833b1-bfcd-4faa-8e89-feab204c259a AgustinEz2
+[07:07:57] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:glass 12
+[07:08:02] [Server thread/INFO]: Kiki_gm issued server command: /home
+[07:08:24] [Server thread/INFO]: AgustinEz2 issued server command: /attribute 1d5833b1-bfcd-4faa-8e89-feab204c259a minecraft:generic.scale base set 0.2
+[07:08:26] [Server thread/INFO]: AgustinEz2 issued server command: /attribute 1d5833b1-bfcd-4faa-8e89-feab204c259a minecraft:generic.scale base set 0.3
+[07:09:07] [Server thread/INFO]: AgustinEz2 issued server command: /attribute 1d5833b1-bfcd-4faa-8e89-feab204c259a minecraft:generic.scale base set 0.5
+[07:10:44] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 478.0 62 -1310.0
+[07:10:54] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 436.0 64 -1158.0
+[07:11:02] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 712.0 64 -1520.0
+[07:11:09] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 -84.0 64 -1371.0
+[07:11:12] [Server thread/INFO]: AgustinEz2 issued server command: /home
+[07:12:17] [Server thread/INFO]: Kiki_gm issued server command: /home
+[07:13:15] [Server thread/INFO]: AgustinEz2 issued server command: /effect give 435dd17f-10b1-4e09-a223-22a329cce957 minecraft:regeneration infinite 255
+[07:13:37] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:iron_golem
+[07:13:54] [Server thread/INFO]: AgustinEz2 issued server command: /effect give db6c25ed-7e78-485f-b064-2085bbf70573 minecraft:regeneration infinite 255
+[07:14:05] [Server thread/INFO]: AgustinEz2 issued server command: /effect give db6c25ed-7e78-485f-b064-2085bbf70573 minecraft:health_boost infinite 255
+[07:14:22] [Server thread/INFO]: AgustinEz2 issued server command: /effect give @a minecraft:glowing
+[07:14:25] [Server thread/INFO]: AgustinEz2 issued server command: /effect give @a minecraft:glowing infinite
+[07:14:47] [Server thread/INFO]: AgustinEz2 was doomed to fall by Iron Golem
+[07:14:50] [Server thread/INFO]: Kiki_gm issued server command: /home
+[07:14:51] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[07:15:16] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[07:15:23] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[07:15:46] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[07:15:50] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[07:16:09] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[07:16:12] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[07:19:32] [Server thread/INFO]: AgustinEz2 was doomed to fall by Iron Golem
+[07:19:36] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[07:20:04] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:regeneration infinite 255
