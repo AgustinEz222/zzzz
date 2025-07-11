@@ -117,3 +117,8 @@
 [05:22:31] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
 [05:22:40] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
 [05:22:44] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[05:31:49] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:potato 100
+[05:31:53] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:potato 100
+[05:31:53] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:potato 100
+[05:33:03] [Server thread/INFO]: AgustinEz2 issued server command: /home
+[05:35:13] [Server thread/INFO]: AgustinEz2 issued server command: /effect give 01bc903b-36ff-4594-912b-dbfa8a9efd70 minecraft:regeneration infinite
