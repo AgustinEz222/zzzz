@@ -122,3 +122,12 @@
 [05:31:53] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:potato 100
 [05:33:03] [Server thread/INFO]: AgustinEz2 issued server command: /home
 [05:35:13] [Server thread/INFO]: AgustinEz2 issued server command: /effect give 01bc903b-36ff-4594-912b-dbfa8a9efd70 minecraft:regeneration infinite
+[05:40:13] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:fletching_table
+[05:43:09] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.block_break_speed base set 2
+[05:43:23] [Server thread/INFO]: Kiki_gm issued server command: /home
+[05:44:45] [Server thread/INFO]: AgustinEz2 issued server command: /home
+[05:45:15] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 1
+[05:46:28] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.attack_damage base set 1000
+[05:46:34] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.attack_damage base set 2
+[05:48:01] [Server thread/WARN]: AgustinEz2 moved wrongly!
+[05:48:48] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611 AgustinEz2
