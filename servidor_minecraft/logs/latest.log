@@ -110,3 +110,10 @@
 [05:17:59] [Server thread/INFO]: Kiki_gm joined the game
 [05:17:59] [Server thread/INFO]: Kiki_gm[/127.1.137.19:43755] logged in with entity id 1805 at ([world]340.5257135130861, 73.0, -1574.074999988079)
 [05:18:10] [Server thread/INFO]: AgustinEz2 issued server command: /effect give @a minecraft:glowing infinite
+[05:21:11] [Server thread/INFO]: Kiki_gm issued server command: /home
+[05:21:54] [Server thread/INFO]: AgustinEz2 issued server command: /home
+[05:21:55] [Server thread/INFO]: Kiki_gm issued server command: /home
+[05:22:27] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[05:22:31] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[05:22:40] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[05:22:44] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
