@@ -139,3 +139,11 @@
 [05:53:59] [Server thread/INFO]: AgustinEz2 issued server command: /cristc setReplant true
 [05:54:20] [Server thread/INFO]: AgustinEz2 issued server command: /cristc setNetherTrees true
 [05:57:58] [Server thread/INFO]: AgustinEz2 issued server command: /cristc setLimit 100000
+[06:00:31] [Server thread/INFO]: Villager Villager['Villager'/6516, uuid='408eb9a1-bf92-4b50-aa64-d48e3842a935', l='ServerLevel[world]', x=301.70, y=63.00, z=-1626.41, cpos=[18, -102], tl=24210, v=true] died, message: 'Villager suffocated in a wall'
+[06:02:23] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:name_tag[minecraft:item_name=asd] 2
+[06:03:06] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:zombie
+[06:03:11] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:zombie
+[06:04:06] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:name_tag
+[06:04:33] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:anvil
+[06:05:51] [Server thread/INFO]: AgustinEz2 issued server command: /effect give 57e06feb-9326-4823-8250-e9fb78e8c74f minecraft:fire_resistance infinite
+[06:08:28] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:name_tag
