@@ -284,3 +284,45 @@
 [07:19:32] [Server thread/INFO]: AgustinEz2 was doomed to fall by Iron Golem
 [07:19:36] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
 [07:20:04] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:regeneration infinite 255
+[07:21:30] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[07:21:40] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:regeneration infinite 255
+[07:21:51] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:health_boost infinite 22
+[07:22:38] [Server thread/INFO]: AgustinEz2 issued server command: /effect clear AgustinEz2
+[07:22:44] [Server thread/INFO]: AgustinEz2 issued server command: /effect give @a minecraft:glowing
+[07:22:46] [Server thread/INFO]: AgustinEz2 issued server command: /effect give @a minecraft:glowing infinite
+[07:24:34] [Server thread/INFO]: Kiki_gm lost connection: Disconnected
+[07:24:34] [Server thread/INFO]: Kiki_gm left the game
+[07:25:01] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 298.0 63 -1603.0
+[07:25:12] [Server thread/INFO]: Dn0611 lost connection: Disconnected
+[07:25:12] [Server thread/INFO]: Dn0611 left the game
+[07:25:15] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
+[07:25:15] [Server thread/INFO]: AgustinEz2 left the game
+[07:25:29] [Server thread/INFO]: Stopping the server
+[07:25:29] [Server thread/INFO]: Stopping server
+[07:25:29] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.6
+[07:25:29] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.4
+[07:25:29] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[07:25:29] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[07:25:29] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[07:25:29] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
+[07:25:29] [Server thread/INFO]: Saving players
+[07:25:29] [Server thread/INFO]: Saving worlds
+[07:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world' in 0.08s
+[07:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[07:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:25:29] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[07:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
