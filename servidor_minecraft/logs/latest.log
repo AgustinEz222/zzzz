@@ -1,115 +1,94 @@
-[04:16:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[04:16:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[04:16:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:16:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[04:16:39] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+[06:02:18] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[06:02:18] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[06:02:18] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[06:02:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[06:02:20] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - AngelChest (13.9.4), Chunky (1.4.40), CrisTreeCapitator (6.4.4), SetHome (6.2.3), SkinsRestorer (15.7.6)
-[04:16:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:16:48] [ServerMain/INFO]: Loaded 1290 recipes
-[04:16:48] [ServerMain/INFO]: Loaded 1399 advancements
-[04:16:49] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[04:16:49] [Server thread/INFO]: Loading properties
-[04:16:49] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[04:16:50] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:16:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:16:50] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:16:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[04:16:52] [Server thread/INFO]: Default game type: SURVIVAL
-[04:16:52] [Server thread/INFO]: Generating keypair
-[04:16:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:16:52] [Server thread/INFO]: Using epoll channel type
-[04:16:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:16:52] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[04:16:53] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
-[04:16:53] [Server thread/INFO]: [CrisTreeCapitator] Loading server plugin CrisTreeCapitator v6.4.4
-[04:16:53] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[04:16:53] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.4
-[04:16:53] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
-[04:16:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:16:53] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
-[04:16:56] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[04:16:58] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[04:16:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:16:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:16:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:16:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:16:58] [Server thread/INFO]: Preparing level "world"
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[04:16:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[04:16:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:17:01] [Server thread/INFO]: Time elapsed: 1984 ms
-[04:17:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:17:01] [Server thread/INFO]: Time elapsed: 397 ms
-[04:17:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:17:01] [Server thread/INFO]: Time elapsed: 247 ms
-[04:17:01] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
-[04:17:01] [Server thread/INFO]: [CrisTreeCapitator] Enabling CrisTreeCapitator v6.4.4
-[04:17:01] [Server thread/INFO]: [CrisTreeCapitator] WorldGuard not found. Maybe WorldGuard or this plugin are not up to date?
-[04:17:02] [Server thread/INFO]: [CrisTreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
-[04:17:02] [Server thread/INFO]: [CrisTreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
-[04:17:02] [Server thread/INFO]: [CrisTreeCapitator] Enabled
-[04:17:02] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[04:17:02] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.4
-[04:17:03] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[04:17:03] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[04:17:03] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[04:17:03] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
-[04:17:04] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
-[04:17:04] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[04:17:04] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.4 (Premium: false)
-[04:17:05] [Server thread/INFO]: [spark] Starting background profiler...
-[04:17:05] [Server thread/INFO]: Done preparing level "world" (7.422s)
-[04:17:05] [Server thread/INFO]: Running delayed init tasks
-[04:17:05] [Server thread/INFO]: Done (28.708s)! For help, type "help"
-[04:17:05] [Server thread/INFO]: Timings Reset
-[04:17:08] [Server thread/INFO]: [AngelChest] ========================================================
-[04:17:08] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[04:17:08] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[04:17:08] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[04:17:08] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[04:17:08] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[04:17:08] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[04:17:08] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[04:17:08] [Server thread/INFO]: [AngelChest] 
-[04:17:08] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[04:17:08] [Server thread/INFO]: [AngelChest] ========================================================
-[04:28:14] [Server thread/INFO]: Stopping the server
-[04:28:14] [Server thread/INFO]: Stopping server
-[04:28:14] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.6
-[04:28:14] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.4
-[04:28:14] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
-[04:28:15] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
-[04:28:15] [Server thread/INFO]: [CrisTreeCapitator] Disabled
-[04:28:15] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
-[04:28:15] [Server thread/INFO]: Saving players
-[04:28:15] [Server thread/INFO]: Saving worlds
-[04:28:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world' in 0.06s
-[04:28:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
-[04:28:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:28:15] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.07s
-[04:28:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:28:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:28:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:28:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:02:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:02:31] [ServerMain/INFO]: Loaded 1290 recipes
+[06:02:31] [ServerMain/INFO]: Loaded 1399 advancements
+[06:02:31] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[06:02:31] [Server thread/INFO]: Loading properties
+[06:02:32] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[06:02:32] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[06:02:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:02:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:02:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[06:02:34] [Server thread/INFO]: Default game type: SURVIVAL
+[06:02:34] [Server thread/INFO]: Generating keypair
+[06:02:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:02:35] [Server thread/INFO]: Using epoll channel type
+[06:02:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:02:35] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[06:02:36] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[06:02:36] [Server thread/INFO]: [CrisTreeCapitator] Loading server plugin CrisTreeCapitator v6.4.4
+[06:02:36] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[06:02:36] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.4
+[06:02:36] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
+[06:02:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:02:36] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
+[06:02:39] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[06:02:41] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[06:02:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:02:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:02:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:02:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:02:41] [Server thread/INFO]: Preparing level "world"
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[06:02:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[06:02:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:02:45] [Server thread/INFO]: Time elapsed: 2948 ms
+[06:02:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:02:46] [Server thread/INFO]: Time elapsed: 1390 ms
+[06:02:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:02:47] [Server thread/INFO]: Time elapsed: 638 ms
+[06:02:47] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[06:02:47] [Server thread/INFO]: [CrisTreeCapitator] Enabling CrisTreeCapitator v6.4.4
+[06:02:47] [Server thread/INFO]: [CrisTreeCapitator] WorldGuard not found. Maybe WorldGuard or this plugin are not up to date?
+[06:02:47] [Server thread/INFO]: [CrisTreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
+[06:02:47] [Server thread/INFO]: [CrisTreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
+[06:02:47] [Server thread/INFO]: [CrisTreeCapitator] Enabled
+[06:02:47] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[06:02:48] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.4
+[06:02:49] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[06:02:49] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[06:02:49] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[06:02:49] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[06:02:50] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[06:02:50] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[06:02:50] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.4 (Premium: false)
+[06:02:50] [Server thread/INFO]: [spark] Starting background profiler...
+[06:02:52] [Server thread/INFO]: Done preparing level "world" (10.536s)
+[06:02:52] [Server thread/INFO]: Running delayed init tasks
+[06:02:52] [Server thread/INFO]: Done (36.106s)! For help, type "help"
+[06:02:52] [Server thread/INFO]: Timings Reset
+[06:02:54] [Server thread/INFO]: [AngelChest] ========================================================
+[06:02:54] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[06:02:54] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[06:02:54] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[06:02:54] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[06:02:54] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[06:02:54] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[06:02:54] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[06:02:54] [Server thread/INFO]: [AngelChest] 
+[06:02:54] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[06:02:54] [Server thread/INFO]: [AngelChest] ========================================================
+[06:03:28] [User Authenticator #1/INFO]: UUID of player Kiki_gm is c84f1e66-0cda-3032-84bd-e3b1c893d620
+[06:03:28] [User Authenticator #0/INFO]: UUID of player Dn0611 is 14e355e1-c92f-339c-9033-9b3d73984935
+[06:03:31] [Server thread/INFO]: Dn0611 joined the game
+[06:03:31] [Server thread/INFO]: Dn0611[/127.205.78.168:58019] logged in with entity id 32 at ([world]295.95051792467484, 67.26476798237037, -1628.39355244298)
+[06:03:32] [Server thread/INFO]: Kiki_gm joined the game
+[06:03:32] [Server thread/INFO]: Kiki_gm[/127.1.137.19:36835] logged in with entity id 33 at ([world]337.5, 73.0, -1590.5)
+[06:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
+[06:10:58] [Server thread/INFO]: Kiki_gm issued server command: /home
