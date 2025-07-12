@@ -96,3 +96,68 @@
 [03:55:00] [Server thread/INFO]: AgustinEz2 joined the game
 [03:55:00] [Server thread/INFO]: AgustinEz2[/127.85.175.63:48713] logged in with entity id 5487 at ([world]301.5762488873359, 63.0, -1607.4750383126534)
 [03:55:30] [Server thread/INFO]: AgustinEz2 issued server command: /effect give @a minecraft:glowing infinite
+[03:57:48] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[03:57:52] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[03:59:25] [Server thread/INFO]: AgustinEz2 fell from a high place
+[03:59:28] [Server thread/INFO]: AgustinEz2 issued server command: /acfetch 1
+[04:01:15] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:spider_eye 20
+[04:02:03] [Server thread/INFO]: AgustinEz2 has made the advancement [Local Brewery]
+[04:03:12] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:fermented_spider_eye 12
+[04:04:37] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:gunpowder 23
+[04:05:23] [Server thread/INFO]: Kiki_gm issued server command: /home
+[04:05:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:28] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:28] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:28] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:28] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:28] [Server thread/INFO]: Kiki_gm lost connection: Kicked for spamming
+[04:05:29] [Server thread/INFO]: Kiki_gm left the game
+[04:05:35] [User Authenticator #3/INFO]: UUID of player Kiki_gm is c84f1e66-0cda-3032-84bd-e3b1c893d620
+[04:05:37] [Server thread/INFO]: Kiki_gm joined the game
+[04:05:37] [Server thread/INFO]: Kiki_gm[/127.1.137.19:59197] logged in with entity id 6827 at ([world]336.5, 73.5625, -1591.5)
+[04:05:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Kiki_gm> z
+[04:05:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Kiki_gm> zz
+[04:05:47] [Server thread/INFO]: Kiki_gm lost connection: Disconnected
+[04:05:47] [Server thread/INFO]: Kiki_gm left the game
+[04:05:59] [Server thread/INFO]: Dn0611 lost connection: Disconnected
+[04:05:59] [Server thread/INFO]: Dn0611 left the game
+[04:06:02] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
+[04:06:02] [Server thread/INFO]: AgustinEz2 left the game
+[04:06:10] [Server thread/INFO]: Stopping the server
+[04:06:11] [Server thread/INFO]: Stopping server
+[04:06:11] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.6
+[04:06:11] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.4
+[04:06:11] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[04:06:11] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[04:06:11] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[04:06:11] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
+[04:06:11] [Server thread/INFO]: Saving players
+[04:06:11] [Server thread/INFO]: Saving worlds
+[04:06:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world' in 0.08s
+[04:06:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[04:06:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:06:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[04:06:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:06:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:06:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:06:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
