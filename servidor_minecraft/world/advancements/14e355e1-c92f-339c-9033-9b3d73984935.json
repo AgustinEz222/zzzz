@@ -2755,6 +2755,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-07-12 06:12:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-07-12 06:16:37 +0000"
@@ -2791,9 +2797,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/who_needs_rockets": {
+  "minecraft:husbandry/tactical_fishing": {
     "criteria": {
-      "who_needs_rockets": "2025-07-12 06:12:56 +0000"
+      "salmon_bucket": "2025-07-12 06:51:26 +0000"
     },
     "done": true
   },
