@@ -92,3 +92,11 @@
 [06:03:32] [Server thread/INFO]: Kiki_gm[/127.1.137.19:36835] logged in with entity id 33 at ([world]337.5, 73.0, -1590.5)
 [06:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
 [06:10:58] [Server thread/INFO]: Kiki_gm issued server command: /home
+[06:12:56] [Server thread/INFO]: Dn0611 has made the advancement [Who Needs Rockets?]
+[06:14:43] [Server thread/INFO]: Kiki_gm issued server command: /home
+[06:19:22] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> a
+[06:19:23] [Async Chat Thread - #0/INFO]: [Not Secure] <Dn0611> a
+[06:19:51] [Async Chat Thread - #1/INFO]: [Not Secure] <Dn0611> A
+[06:20:33] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> a
+[06:20:38] [Server thread/INFO]: Kiki_gm issued server command: /home
+[06:21:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Kiki_gm> a A
