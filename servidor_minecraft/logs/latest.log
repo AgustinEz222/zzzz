@@ -91,3 +91,40 @@
 [03:25:10] [User Authenticator #0/INFO]: UUID of player AgustinEz2 is dd4c0740-061a-3a0b-832c-bdde761d88a2
 [03:25:14] [Server thread/INFO]: AgustinEz2 joined the game
 [03:25:15] [Server thread/INFO]: AgustinEz2[/127.85.175.63:37661] logged in with entity id 58 at ([world]310.0900000035763, 64.0, -1601.9099999964237)
+[03:25:16] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1005873f-6abb-4a1d-8b99-209a77bfff99, mapped to Bat['Bat'/131, uuid='1005873f-6abb-4a1d-8b99-209a77bfff99', l='ServerLevel[world]', x=272.25, y=-45.08, z=-1630.62, cpos=[17, -102], tl=346, v=true], can't add Bat['Bat'/167, uuid='1005873f-6abb-4a1d-8b99-209a77bfff99', l='ServerLevel[world]', x=271.66, y=-44.73, z=-1630.46, cpos=[16, -102], tl=352, v=false]
+[03:25:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
+[03:25:39] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 312.0 63 -1604.0
+[03:26:16] [User Authenticator #1/INFO]: UUID of player Dn0611 is 14e355e1-c92f-339c-9033-9b3d73984935
+[03:26:18] [Server thread/INFO]: Dn0611 joined the game
+[03:26:18] [Server thread/INFO]: Dn0611[/127.205.78.168:51127] logged in with entity id 519 at ([world]308.1214750457798, 64.0, -1615.2392224345515)
+[03:27:20] [User Authenticator #2/INFO]: UUID of player Kiki_gm is c84f1e66-0cda-3032-84bd-e3b1c893d620
+[03:27:23] [Server thread/INFO]: Kiki_gm joined the game
+[03:27:23] [Server thread/INFO]: Kiki_gm[/127.1.137.19:45513] logged in with entity id 644 at ([world]306.3920109293622, 65.0, -1616.401271139934)
+[03:27:55] [Server thread/INFO]: Kiki_gm issued server command: /home
+[03:28:19] [Server thread/INFO]: AgustinEz2 fell from a high place
+[03:28:26] [Server thread/INFO]: AgustinEz2 issued server command: /acfetch 1
+[03:29:08] [Server thread/INFO]: AgustinEz2 issued server command: /effect give @a minecraft:glowing infinite
+[03:30:48] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[03:30:53] [Server thread/INFO]: AgustinEz2 issued server command: /acfetch 1
+[03:31:01] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode spectator
+[03:31:08] [Server thread/INFO]: AgustinEz2 issued server command: /weather clear
+[03:31:59] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[03:32:25] [Server thread/WARN]: Player Kiki_gm just tried to change non-editable sign
+[03:35:18] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode spectator
+[03:36:15] [Server thread/INFO]: Villager Villager['Villager'/2462, uuid='8e39d1a3-4112-4d11-a827-e4342669126b', l='ServerLevel[world]', x=1250.28, y=64.00, z=-1521.63, cpos=[78, -96], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[03:37:35] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 324.0 64 -1587.0
+[03:39:37] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 296.0 67 -1631.0
+[03:41:36] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 -268.0 64 -1530.0
+[03:43:49] [Server thread/INFO]: AgustinEz2 issued server command: /seedf
+[03:43:51] [Server thread/INFO]: AgustinEz2 issued server command: /seed
+[03:47:48] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm AgustinEz2
+[03:48:29] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 284.0 67 -1658.0
+[03:49:36] [Server thread/INFO]: AgustinEz2 issued server command: /playsound minecraft:entity.wither.ambient ambient @a
+[03:49:46] [Server thread/INFO]: AgustinEz2 issued server command: /playsound minecraft:entity.wither.spawn ambient @a
+[03:49:47] [Server thread/INFO]: AgustinEz2 issued server command: /playsound minecraft:entity.wither.spawn ambient @a
+[03:49:48] [Server thread/INFO]: AgustinEz2 issued server command: /playsound minecraft:entity.wither.spawn ambient @a
+[03:49:49] [Server thread/INFO]: AgustinEz2 issued server command: /playsound minecraft:entity.wither.spawn ambient @a
+[03:49:50] [Server thread/INFO]: AgustinEz2 issued server command: /playsound minecraft:entity.wither.spawn ambient @a
+[03:50:00] [Server thread/INFO]: Kiki_gm issued server command: /msg Dn0611 decime por aca jajajaja
+[03:51:27] [Server thread/INFO]: Kiki_gm issued server command: /msg Dn0611 tengo curiosidad que ibas a decir jajaja
+[03:53:44] [Server thread/INFO]: Kiki_gm issued server command: /home

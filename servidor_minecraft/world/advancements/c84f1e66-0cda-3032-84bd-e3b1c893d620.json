@@ -7,6 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_cold_ocean": "2025-07-26 03:48:11 +0000",
+      "minecraft:cold_ocean": "2025-07-26 03:47:49 +0000",
       "minecraft:frozen_ocean": "2025-07-06 04:32:06 +0000",
       "minecraft:frozen_river": "2025-07-06 05:38:49 +0000",
       "minecraft:forest": "2025-07-06 04:44:37 +0000",
